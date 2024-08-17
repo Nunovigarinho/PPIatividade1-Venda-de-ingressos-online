@@ -1,0 +1,20 @@
+{
+  "name": "ppiatividade1-venda-de-ingressos-online",
+  "version": "1.0.0",
+  "description": "Atividade 1 - Venda de ingressos online",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nunovigarinho/PPIatividade1-Venda-de-ingressos-online.git"
+  },
+  "author": "Nuno Vigarinho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nunovigarinho/PPIatividade1-Venda-de-ingressos-online/issues"
+  },
+  "homepage": "https://github.com/Nunovigarinho/PPIatividade1-Venda-de-ingressos-online#readme"
+}
