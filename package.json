@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Nunovigarinho/PPIatividade1-Venda-de-ingressos-online/issues"
   },
-  "homepage": "https://github.com/Nunovigarinho/PPIatividade1-Venda-de-ingressos-online#readme"
+  "homepage": "https://github.com/Nunovigarinho/PPIatividade1-Venda-de-ingressos-online#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }

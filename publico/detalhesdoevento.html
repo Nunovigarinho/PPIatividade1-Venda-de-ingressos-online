@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Detalhes do Evento</title>
+</head>
+<body>
+    <h1>Detalhes do Evento</h1>
+    <div class="event-detail">
+        <h2>Evento 1</h2>
+        <p>Data: 20/09/2024</p>
+        <p>Local: Local X</p>
+        <p>Descrição: Descrição detalhada do evento.</p>
+        <p>Preço: R$100,00</p>
+        <p>Ingressos Disponíveis: 50</p>
+        <label for="quantity">Quantidade:</label>
+        <input type="number" id="quantity" name="quantity" min="1" max="50" value="1">
+        <p>Total: <span id="total-price">R$100,00</span></p>
+        <button id="buy-button">Comprar</button>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
