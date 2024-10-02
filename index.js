@@ -20,7 +20,6 @@ app.use(session({
 
 app.use(express.static('./publico'));
 
-
 app.get('/login',(requisicao, resposta) => { 
     resposta.redirect('/login.html');
 });
